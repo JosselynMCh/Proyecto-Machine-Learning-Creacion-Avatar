@@ -1,0 +1,14 @@
+# Requirements for U-GAT-IT Model
+
+# Core Libraries
+tensorflow==2.11.0
+numpy==1.21.6
+Pillow==9.0.1
+opencv-python==4.6.0.66
+
+# Additional Dependencies
+matplotlib==3.5.1
+scikit-image==0.19.2
+dlib==19.23.0
+flask==2.1.1
+Flask-Cors==3.0.10
