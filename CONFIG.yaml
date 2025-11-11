@@ -1,0 +1,21 @@
+# Project Configuration
+
+## General Settings
+project_name: "Avatar Creation Project"
+version: "1.0"
+
+## Data Settings
+data_source: "path/to/data"
+data_format: "csv"
+
+## Model Settings
+model_type: "Generative Adversarial Network"
+image_size: [128, 128]
+
+## Training Settings
+epochs: 500
+batch_size: 32
+learning_rate: 0.0001
+
+## Evaluation Settings
+evaluation_metric: "F1 Score"
